@@ -1,0 +1,86 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html,
+body {
+  background-color: #f1f1f1;
+}
+.content {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header .left {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 0 10px;
+  height: 35px;
+  width: 100%;
+}
+header .left img {
+  width: 20px;
+  margin-right: 10px;
+}
+header input {
+  outline: none;
+  border: none;
+  width: 100%;
+  background-color: #fff;
+}
+header > img {
+  width: 22px;
+  margin-left: 20px;
+}
+main {
+  overflow-y: auto;
+  padding: 10px 15px;
+}
+footer {
+  height: 60px;
+  display: flex;
+  background-color: #f1f1f1;
+}
+footer img {
+  width: 24px;
+}
+footer span {
+  color: #000;
+  font-size: 12px;
+  font-weight: 550;
+}
+footer div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+footer .active {
+  color: #f5a623;
+}
+.nav {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  padding: 20px 10px 10px;
+}
+.nav li {
+  color: rgb(68, 68, 68);
+  font-size: 16px;
+  margin-right: 20px;
+}
+.nav .act {
+  color: #000;
+  font-weight: 550;
+  font-size: 22px;
+}

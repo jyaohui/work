@@ -1,0 +1,24 @@
+.bott {
+  display: flex;
+  margin-bottom: 10px;
+}
+.ll {
+  flex: 1;
+}
+.ll img {
+  width: 100%;
+  border-radius: 5px;
+}
+.ll span {
+  font-size: 14px;
+  line-height: 15px;
+}
+.bann {
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.tygy {
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 550;
+}

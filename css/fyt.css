@@ -1,0 +1,52 @@
+.bann {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.bott {
+  display: flex;
+  margin-bottom: 10px;
+}
+.ll {
+  flex: 1;
+}
+.ll img {
+  width: 100%;
+  border-radius: 5px;
+}
+.ll span {
+  font-size: 14px;
+  line-height: 15px;
+}
+main {
+  padding: 0 !important;
+}
+.bannn {
+  width: 100%;
+}
+.block {
+  background-color: rgb(41, 41, 41);
+  margin-top: -5px;
+  padding: 20px 20px;
+}
+.ren {
+  display: flex;
+  justify-content: space-between;
+}
+.ren div {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.aaaa {
+  margin: 0 20px;
+}
+.ren img {
+  width: 100%;
+}
+.tit {
+  margin-top: 20px;
+  color: #fff;
+  font-size: 16px;
+}

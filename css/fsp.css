@@ -1,0 +1,138 @@
+main {
+  padding: 30px 20px;
+  background-color: rgb(41, 41, 41);
+}
+footer {
+  background-color: rgb(41, 41, 41);
+}
+footer span {
+  color: rgb(95, 95, 95);
+}
+p {
+  font-weight: 550;
+  font-size: 20px;
+}
+.nav {
+  padding-top: 30px;
+  background-color: rgb(41, 41, 41);
+}
+.nav li {
+  color: rgb(95, 95, 95);
+}
+.nav .act {
+  color: #f5a623;
+}
+.block {
+  background-color: rgb(71, 67, 67);
+  border-radius: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.avv {
+  display: flex;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.avt {
+  background-color: rgb(168, 168, 168);
+  border-radius: 50%;
+  overflow: hidden;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hd {
+  margin-top: 30px;
+  display: flex;
+}
+.q2,
+.q4 {
+  margin: 0 10px;
+}
+.hd div {
+  flex: 1;
+  height: 50px;
+  background-color: rgb(88, 88, 88);
+  border-radius: 5px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+.hd1 {
+  margin-top: 20px;
+  display: flex;
+}
+.tit {
+  margin: 20px 0 0;
+  font-weight: 550;
+  color: #fff;
+  font-size: 14px;
+}
+.q21 {
+  margin: 0 10px;
+}
+.hd1 div {
+  flex: 1;
+  height: 80px;
+  background-color: rgb(88, 88, 88);
+  border-radius: 5px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+.avv img {
+  width: 40px;
+  border-radius: 50%;
+}
+.btn {
+  background-color: #f5a623;
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  color: #50422d;
+}
+.q1 {
+  background-color: rgb(154, 154, 233) !important;
+}
+.q2 {
+  background-color: rgb(228, 188, 128) !important;
+}
+.q3 {
+  background-color: rgb(116, 207, 207) !important;
+}
+.q4 {
+  background-color: rgb(71, 71, 233) !important;
+}
+.bann {
+  width: 100%;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.bott {
+  color: #f5a623;
+  font-size: 13px;
+  margin-top: 20px;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  justify-content: center;
+}
+.name span:first-of-type {
+  font-weight: 550;
+  color: #fff;
+}
+.name span:last-of-type {
+  color: rgb(175, 175, 175);
+  font-size: 12px;
+}
